@@ -19,10 +19,10 @@ A desktop-based gym management application built with Java Swing and PostgreSQL.
    `git clone https://github.com/SanyamB9187/gym-management-system.git`
 
 2. Import into IntelliJ IDEA or your preferred IDE  
-3. Set up the PostgreSQL database (SQL schema provided in `/sql/` folder)  
+3. Set up the PostgreSQL database (SQL schema provided in the files starting with name 'postgre')  
 4. Run `Main.java`
    
 ## Screenshots
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](Mainmenu.png)
 
 
