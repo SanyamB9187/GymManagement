@@ -24,5 +24,6 @@ A desktop-based gym management application built with Java Swing and PostgreSQL.
    
 ## Screenshots
 ![Main Menu](Mainmenu.png)
+![Member Registration](image.png)
 
 
